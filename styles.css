@@ -1,0 +1,11 @@
+#treemap {
+    width: 1000px;
+    height: 600px;
+}
+
+#tooltip {
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    pointer-events: none;
+}
